@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h4>gatsbyNetlify - https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/<h4>
 
@@ -60,3 +61,7 @@ Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# gatsbyNetlify
+gatsbyNetlify - https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/
+>>>>>>> 76921a1186c08c26410f20bf3a6ca927a978484b
